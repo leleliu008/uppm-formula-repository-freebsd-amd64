@@ -1,0 +1,5 @@
+summary: GNU multiple precision arithmetic library
+webpage: https://gmplib.org
+version: 6.2.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-freebsd-x86_64/releases/download/2022.09.22/gmp-6.2.1-freebsd-x86_64.tar.xz
+bin-sha: a0dccab1357c435a789bbcb6587420858e8f1c481f0f61bebe41355253100148

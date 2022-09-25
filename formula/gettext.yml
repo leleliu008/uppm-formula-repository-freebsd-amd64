@@ -1,0 +1,5 @@
+summary: GNU internationalization (i18n) and localization (l10n) library
+webpage: https://www.gnu.org/software/gettext
+version: 0.21
+bin-url: https://github.com/leleliu008/uppm-package-repository-freebsd-x86_64/releases/download/2022.09.22/gettext-0.21-freebsd-x86_64.tar.xz
+bin-sha: 2617253a5d38d29c8d185952aa0e7cafaf2f8ad07afbecd48a1ceb4a34157aa7

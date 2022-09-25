@@ -1,0 +1,5 @@
+summary: C library of Git core methods that is re-entrant and linkable
+webpage: https://libgit2.github.com
+version: 1.4.4
+bin-url: https://github.com/leleliu008/uppm-package-repository-freebsd-x86_64/releases/download/2022.09.22/libgit2-1.4.4-freebsd-x86_64.tar.xz
+bin-sha: 790515a74808479e3f3ce178f0b6dafd81100556b3d3defeb8e650e32db5a0a0

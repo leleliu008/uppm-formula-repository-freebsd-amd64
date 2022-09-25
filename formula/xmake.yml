@@ -1,0 +1,5 @@
+summary: Cross-platform build utility based on Lua
+webpage: https://xmake.io/
+version: 2.6.6
+bin-url: https://github.com/leleliu008/uppm-package-repository-freebsd-x86_64/releases/download/2022.09.22/xmake-2.6.6-freebsd-x86_64.tar.xz
+bin-sha: a5668c691b8e5ab52da954123a41f6e18d64711df1cf772ad2a62dfa1e5e8387

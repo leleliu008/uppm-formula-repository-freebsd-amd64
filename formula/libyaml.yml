@@ -1,0 +1,5 @@
+summary: YAML Parser
+webpage: https://github.com/yaml/libyaml.git
+version: 0.2.5
+bin-url: https://github.com/leleliu008/uppm-package-repository-freebsd-x86_64/releases/download/2022.09.22/libyaml-0.2.5-freebsd-x86_64.tar.xz
+bin-sha: bb5d5504caba702c97aeae5a8e5faab858032e40b59fb3b9de205138bbc3c6ea

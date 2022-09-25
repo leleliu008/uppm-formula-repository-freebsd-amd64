@@ -1,0 +1,5 @@
+summary: File comparison utilities
+webpage: https://www.gnu.org/software/diffutils
+version: 3.8
+bin-url: https://github.com/leleliu008/uppm-package-repository-freebsd-x86_64/releases/download/2022.09.22/diffutils-3.8-freebsd-x86_64.tar.xz
+bin-sha: d09d1aee477c8836eedc898c6e545608590f99a597e5683870c4a175ec388f27

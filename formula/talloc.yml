@@ -1,0 +1,5 @@
+summary: Hierarchical, reference-counted memory pool with destructors
+webpage: https://talloc.samba.org/
+version: 2.3.4
+bin-url: https://github.com/leleliu008/uppm-package-repository-freebsd-x86_64/releases/download/2022.09.22/talloc-2.3.4-freebsd-x86_64.tar.xz
+bin-sha: a199472ce0c790437e7b98049f1ed7b220f73db975375ff788903963ad481828

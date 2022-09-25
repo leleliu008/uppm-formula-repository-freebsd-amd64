@@ -1,0 +1,5 @@
+summary: C library for multiple-precision floating-point computations
+webpage: https://www.mpfr.org
+version: 4.1.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-freebsd-x86_64/releases/download/2022.09.22/mpfr-4.1.0-freebsd-x86_64.tar.xz
+bin-sha: a098a8b70430f71d0735e48c0018c8e39739106aabb711d42f9b9ca376f247a7

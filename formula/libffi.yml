@@ -1,0 +1,5 @@
+summary: Portable Foreign Function Interface library
+webpage: https://sourceware.org/libffi
+version: 3.4.2
+bin-url: https://github.com/leleliu008/uppm-package-repository-freebsd-x86_64/releases/download/2022.09.22/libffi-3.4.2-freebsd-x86_64.tar.xz
+bin-sha: c41d1dff67ce16ac16f91bde3d89b44a1ddfa14cab4004fa5d1ccf2845aab66e

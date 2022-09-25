@@ -1,0 +1,5 @@
+summary: Get a file from an HTTP, HTTPS or FTP server
+webpage: https://curl.haxx.se
+version: 7.84.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-freebsd-x86_64/releases/download/2022.09.22/curl-7.84.0-freebsd-x86_64.tar.xz
+bin-sha: c2749d0af88b4182144fa1261660a221d46598779c6b87c6b2de112a49424772

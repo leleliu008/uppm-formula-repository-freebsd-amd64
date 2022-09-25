@@ -1,0 +1,5 @@
+summary: Cryptography and SSL/TLS Toolkit
+webpage: https://www.openssl.org/
+version: 3.0.5
+bin-url: https://github.com/leleliu008/uppm-package-repository-freebsd-x86_64/releases/download/2022.09.22/openssl-3.0.5-freebsd-x86_64.tar.xz
+bin-sha: 5778c39840ef136bb07ea94488e4c4a104d402e68af590ec00db604dcd3d822d

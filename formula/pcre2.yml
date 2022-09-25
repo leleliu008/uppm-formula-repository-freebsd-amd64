@@ -1,0 +1,5 @@
+summary: Perl compatible regular expressions library with a new API
+webpage: https://www.pcre.org/
+version: 10.40
+bin-url: https://github.com/leleliu008/uppm-package-repository-freebsd-x86_64/releases/download/2022.09.22/pcre2-10.40-freebsd-x86_64.tar.xz
+bin-sha: 83664d6387f44bbb0f4928339a63ace590dd2d7167660f4eeb246e8b5badb268

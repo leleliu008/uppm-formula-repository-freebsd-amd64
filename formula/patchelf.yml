@@ -1,0 +1,5 @@
+summary: Utility for modifying existing ELF executables and libraries
+webpage: https://github.com/NixOS/patchelf.git
+version: 0.14.5
+bin-url: https://github.com/leleliu008/uppm-package-repository-freebsd-x86_64/releases/download/2022.09.22/patchelf-0.14.5-freebsd-x86_64.tar.xz
+bin-sha: 5a8a345174cf14e12f37cf60b8367a9e7dd496e9f73eb7bba4dc714b77ce9a52

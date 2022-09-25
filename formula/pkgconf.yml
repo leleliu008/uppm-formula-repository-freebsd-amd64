@@ -1,0 +1,5 @@
+summary: Reimplementation of pkg-config
+webpage: http://pkgconf.org
+version: 1.8.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-freebsd-x86_64/releases/download/2022.09.22/pkgconf-1.8.0-freebsd-x86_64.tar.xz
+bin-sha: 5e4b3e53320c76b5efadc73b6c0b0a76eefd90d05390c366848f252631129b61

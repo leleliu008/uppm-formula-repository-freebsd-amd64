@@ -1,0 +1,5 @@
+summary: command-line interface for SQLite
+webpage: https://sqlite.org
+version: 3.38.5
+bin-url: https://github.com/leleliu008/uppm-package-repository-freebsd-x86_64/releases/download/2022.09.22/sqlite-3.38.5-freebsd-x86_64.tar.xz
+bin-sha: a67acf1c902403ec92aaee25c7f13faafe180b73181123c0cee2fbc36c312838

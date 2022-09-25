@@ -1,0 +1,5 @@
+summary: Small build system for use with gyp or CMake
+webpage: https://ninja-build.org/
+version: 1.11.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-freebsd-x86_64/releases/download/2022.09.22/ninja-1.11.0-freebsd-x86_64.tar.xz
+bin-sha: 81779615e3dbb4107f889006a0da6df48c1efb83cb7d3f5a3b8cf4d1395e2aef

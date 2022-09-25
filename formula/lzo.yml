@@ -1,0 +1,5 @@
+summary: Real-time data compression library
+webpage: https://www.oberhumer.com/opensource/lzo
+version: 2.10
+bin-url: https://github.com/leleliu008/uppm-package-repository-freebsd-x86_64/releases/download/2022.09.22/lzo-2.10-freebsd-x86_64.tar.xz
+bin-sha: 24e41e061980e8f8b2dbb6bea3d184dd73cfd2b1c371d5ba5a1057355c099261

@@ -1,0 +1,5 @@
+summary: C library implementing the SSH2 protocol
+webpage: https://libssh2.org/
+version: 1.10.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-freebsd-x86_64/releases/download/2022.09.22/libssh2-1.10.0-freebsd-x86_64.tar.xz
+bin-sha: ddb0a80736ae0882279e88b089c0435dcf4b689a980650d8423a79bfc60d5142

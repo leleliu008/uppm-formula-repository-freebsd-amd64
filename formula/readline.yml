@@ -1,0 +1,5 @@
+summary: Library for command-line editing
+webpage: https://www.gnu.org/software/readline
+version: 8.1.2
+bin-url: https://github.com/leleliu008/uppm-package-repository-freebsd-x86_64/releases/download/2022.09.22/readline-8.1.2-freebsd-x86_64.tar.xz
+bin-sha: e5d60377f1bd7f743195f37cde690f049282e455eec351798fc9eda0e8195676

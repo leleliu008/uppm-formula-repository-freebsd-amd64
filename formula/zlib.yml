@@ -1,0 +1,5 @@
+summary: General-purpose lossless data-compression library
+webpage: https://zlib.net
+version: 1.2.12
+bin-url: https://github.com/leleliu008/uppm-package-repository-freebsd-x86_64/releases/download/2022.09.22/zlib-1.2.12-freebsd-x86_64.tar.xz
+bin-sha: b7af603b971a2ccccac4b5744db31f421f4988eb6c8d76f8a02a0e9e2bbbd5e8

@@ -1,0 +1,5 @@
+summary: XML 1.0 parser
+webpage: https://libexpat.github.io
+version: 2.4.8
+bin-url: https://github.com/leleliu008/uppm-package-repository-freebsd-x86_64/releases/download/2022.09.22/expat-2.4.8-freebsd-x86_64.tar.xz
+bin-sha: 050140c53ef51273ce016fea4d20ed4fbaeaec4bb9a2bcd0672cbbe33fa5a86a

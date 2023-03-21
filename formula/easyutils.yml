@@ -1,0 +1,5 @@
+summary: a collections of easy to use command-line utilities
+webpage: https://github.com/leleliu008/C-examples.git
+version: 2023.03.20
+bin-url: https://github.com/leleliu008/uppm-package-repository-freebsd-amd64/releases/download/2022.09.22/easyutils-2023.03.20-freebsd-amd64.tar.xz
+bin-sha: e04e9b693a19eb69a1b08f01fa9a98c8b5b6cfd7973deb696256c66cd7e4f2ae

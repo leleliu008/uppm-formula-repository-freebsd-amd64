@@ -1,0 +1,5 @@
+summary: Multi-format archive and compression library
+webpage: https://www.libarchive.org/
+version: 3.7.2
+bin-url: https://github.com/leleliu008/uppm-package-repository-freebsd-amd64/releases/download/2022.09.22/bsdtar-3.7.2-freebsd-amd64.tar.xz
+bin-sha: 30fa6e30efe97c35fd1cc234ded5dbfdfbaaef988663f80497dd9ea5a8398945

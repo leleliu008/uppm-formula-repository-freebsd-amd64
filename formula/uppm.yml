@@ -1,5 +1,5 @@
 summary: Universal Prebuild Package Manager
-webpage: https://github.com/leleliu008/uppm.git
-version: 0.10.1
-bin-url: https://github.com/leleliu008/uppm-package-repository-freebsd-x86_64/releases/download/2022.09.22/uppm-0.10.1-freebsd-amd64.tar.xz
-bin-sha: 4c9a8cabb67b7e5a0bc0cfe3b19c3da1b651d75d53e893ec68eedecc7a39f496
+webpage: https://github.com/leleliu008/uppm
+version: 0.16.0 
+bin-url: https://github.com/leleliu008/uppm-package-repository-freebsd-13.2-amd64/releases/download/2023.12.09/uppm-0.16.0-freebsd-13.2-amd64.tar.xz 
+bin-sha: 2d8220cc2cae5fef7d8ff98d3805e926bad353c67f64103a5641e6a77a1770e3

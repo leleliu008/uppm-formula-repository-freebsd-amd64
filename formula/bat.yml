@@ -1,5 +1,5 @@
 summary: Clone of cat(1) with syntax highlighting and Git integration
-webpage: https://github.com/sharkdp/bat.git
-version: 0.21.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-freebsd-x86_64/releases/download/2022.09.22/bat-0.21.0-freebsd-x86_64.tar.xz
-bin-sha: c1eda1f737595203d0f07f521c61449a29e17da1c4295b71d4bca18aee379faf
+webpage: https://github.com/sharkdp/bat
+version: 0.24.0 
+bin-url: https://github.com/leleliu008/uppm-package-repository-freebsd-13.2-amd64/releases/download/2023.12.09/bat-0.24.0-freebsd-13.2-amd64.tar.xz 
+bin-sha: 1ce633f3c898f730b1cf0800f3db3adc9205f3fc48aff42b7219f33e9d825dd9

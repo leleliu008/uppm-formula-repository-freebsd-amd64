@@ -1,5 +1,5 @@
 summary: a command-line tool to get your system information.
-webpage: https://github.com/leleliu008/C-examples.git
-version: 2023.03.20
-bin-url: https://github.com/leleliu008/uppm-package-repository-freebsd-amd64/releases/download/2022.09.22/sysinfo-2023.03.20-freebsd-amd64.tar.xz
-bin-sha: daa1960736974f42ee99962559ef140415562f489ccae009a22373dd9753093d
+webpage: https://github.com/leleliu008/C-examples
+version: 2023.12.09 
+bin-url: https://github.com/leleliu008/uppm-package-repository-freebsd-13.2-amd64/releases/download/2023.12.09/sysinfo-2023.12.09-freebsd-13.2-amd64.tar.xz 
+bin-sha: 2b12ee9b640f2134ae945f906a5c8fdfa27db469f5cffdc2404cc3dfafcabe8b

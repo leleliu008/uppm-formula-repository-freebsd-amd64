@@ -1,5 +1,5 @@
 summary: Distributed revision control system
 webpage: https://git-scm.com
-version: 2.41.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-freebsd-x86_64/releases/download/2022.09.22/git-2.41.0-freebsd-amd64.tar.xz
-bin-sha: ccccf183d89cc4914217146be8bf54e1f48af05f337ba04fa3ea1649e64c93fc
+version: 2.42.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-freebsd-13.2-amd64/releases/download/2023.12.09/git-2.42.1-freebsd-13.2-amd64.tar.xz
+bin-sha: 2cb8e7ff4c6eebb3d1ad7ea5ddcd2a7efc92f969c2cb102b0c0f2276a86aedbf

@@ -1,5 +1,5 @@
-summary: Reimplementation of pkg-config
-webpage: http://pkgconf.org
-version: 1.9.5
-bin-url: https://github.com/leleliu008/uppm-package-repository-freebsd-x86_64/releases/download/2022.09.22/pkgconf-1.9.5-freebsd-amd64.tar.xz
-bin-sha: 56b573b24394a76f615b48876da4d7ce20d14e1d293daba3f02c69341326f338
+summary: Manage compile and link flags for libraries
+webpage: https://freedesktop.org/wiki/Software/pkg-config
+version: 0.29.2
+bin-url: https://github.com/leleliu008/uppm-package-repository-freebsd-13.2-amd64/releases/download/2023.12.09/pkg-config-0.29.2-freebsd-13.2-amd64.tar.xz
+bin-sha: ecc7a8af4621a96dd923de31700dc436a711cdde65c2bfee3a23f1fc627cdf38
